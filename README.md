@@ -32,3 +32,14 @@ This project can detect video or stream, there are up to 7 emotion can be classf
 1. Execute `realTimeEmotionDetection.py` for stream like web cam or other, this program will skip some frame to increase performance
 2. Execute `videoEmotionDetection.py` for video, this program is parallel and slightly complicated structure that use semaphor, thread and lock
 3. Execute `estimate.py` to see the overall accuracy of the result
+
+## Demo
+### Raw image
+![raw image](https://i.imgur.com/rgyjWJh.png)
+
+### Processed image
+![processed image](https://i.imgur.com/7LQVlXe.png)
+
+### Result image
+![result image](https://i.imgur.com/hJh0spO.jpg)
+
