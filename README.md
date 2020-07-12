@@ -6,7 +6,7 @@ This project can detect video or stream, there are up to 7 emotion can be classf
 
 ### Steps
 1. First step is trying to get as many image data as we can
-2. Normalize all the image data to the same size
+2. Normalize all the image data to the same size and grayscale
 3. Training the model based on preprocessed image data
 4. Predict outcome on video or stream
 
