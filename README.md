@@ -35,10 +35,10 @@ This project can detect video or stream, there are up to 7 emotion can be classf
 
 ## Demo
 ### Raw image
-![raw image](https://github.com/ed77441/EmotionDetection/blob/master/display/raw_image.jpg)
+![raw image](https://github.com/ed77441/EmotionDetection/blob/master/display/raw_image.png)
 
 ### Processed image
-![processed image](https://github.com/ed77441/EmotionDetection/blob/master/display/processed_image.jpg)
+![processed image](https://github.com/ed77441/EmotionDetection/blob/master/display/processed_image.png)
 
 ### Result image
 ![result image](https://github.com/ed77441/EmotionDetection/blob/master/display/result.jpg)
